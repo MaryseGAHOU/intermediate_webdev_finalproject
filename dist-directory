@@ -1,3 +1,4 @@
+PS C:\Users\MSI CROSSHAIR 18 HX\Documents\Opencode\ircalc> npx webpack
 asset favicon.ico 15 KiB [emitted]
 asset main.js 3.6 KiB [emitted] (name: main)
 asset index.html 1.53 KiB [emitted]
