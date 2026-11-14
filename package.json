@@ -1,0 +1,20 @@
+{
+  "name": "intermediate_webdev_finalproject",
+  "version": "1.0.0",
+  "description": "Interest Rate Calculator - final project for Intermediate Web and Front-End Development",
+  "main": "script.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "interest-rate-calculator"
+  ],
+  "author": "MaryseGAHOU",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.8",
+    "jasmine": "^7.0.0",
+    "webpack": "^5.112.2",
+    "webpack-cli": "^7.3.1"
+  }
+}
